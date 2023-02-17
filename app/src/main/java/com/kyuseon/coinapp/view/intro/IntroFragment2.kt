@@ -7,7 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.kyuseon.coinapp.databinding.FragmentIntro2Binding
-import com.kyuseon.coinapp.view.SelectActivity
+import com.kyuseon.coinapp.view.select.SelectActivity
 
 
 class IntroFragment2 : Fragment() {

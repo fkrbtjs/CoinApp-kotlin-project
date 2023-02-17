@@ -1,4 +1,4 @@
-package com.kyuseon.coinapp.view
+package com.kyuseon.coinapp.view.select
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

@@ -1,4 +1,4 @@
-package com.kyuseon.coinapp.view
+package com.kyuseon.coinapp.view.select
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
