@@ -29,6 +29,7 @@
 - 받아온 Api 데이터들을 room에 저장
 
 https://user-images.githubusercontent.com/115532120/219955940-6b6b1310-9a58-4ecb-bc8f-aacf9a61051f.mp4 
+
 <br>
 
 
@@ -36,6 +37,7 @@ https://user-images.githubusercontent.com/115532120/219955940-6b6b1310-9a58-4ecb
 - WorkManager를 활용한 백그라운드 작업 (관심있는 코인의 변동사항을 시간대별로 확인할 수 있음)
 
 https://user-images.githubusercontent.com/115532120/219956464-a53b02af-d352-4141-b86c-b11660fdce48.mp4 
+
 <br>
 
 
