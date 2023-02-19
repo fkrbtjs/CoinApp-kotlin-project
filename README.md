@@ -27,16 +27,19 @@
 - Navigation을 이용한 fragment간 화면전환
 - dataStore를 활용하여 접속이력이 있는지 확인
 - 받아온 Api 데이터들을 room에 저장
+
 https://user-images.githubusercontent.com/115532120/219955940-6b6b1310-9a58-4ecb-bc8f-aacf9a61051f.mp4
 
 
 - LiveData를 활용하여 실시간 데이터 감지
 - WorkManager를 활용한 백그라운드 작업 (관심있는 코인의 변동사항을 시간대별로 확인할 수 있음)
+
 https://user-images.githubusercontent.com/115532120/219956464-a53b02af-d352-4141-b86c-b11660fdce48.mp4
 
 
 
 - ForegroundService를 활용하여 상단바에 실시간 코인정보 노출
+
 https://user-images.githubusercontent.com/115532120/219956811-e1d7234b-126d-47f8-852a-7599861cd977.mp4
 
 
