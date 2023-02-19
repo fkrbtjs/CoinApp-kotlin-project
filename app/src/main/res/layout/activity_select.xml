@@ -16,7 +16,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="요즘 어떤 코인에\n마음을 뺏겼나요?"
+            android:text="관심있는 코인을\n선택해주세요"
             android:textStyle="bold"
             android:textColor="@color/black"
             android:textSize="30sp"
@@ -46,7 +46,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_margin="20dp"
-            android:background="@color/main"
+            android:background="@color/red"
             android:gravity="center"
             android:text="선택 완료"
             android:textColor="@color/white"
